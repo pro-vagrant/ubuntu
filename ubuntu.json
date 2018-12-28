@@ -183,7 +183,7 @@
         "script/virtualbox.sh",
         "script/parallels.sh",
         "script/motd.sh",
-        "{{user `custom_script`}}",
+        "script/puppet.sh",
         "script/minimize.sh",
         "script/cleanup.sh"
       ],
