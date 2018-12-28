@@ -1,0 +1,6 @@
+Build the box using the following command:
+
+```
+packer build -var-file=ubuntu1804.json ubuntu.json
+```
+
